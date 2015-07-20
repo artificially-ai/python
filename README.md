@@ -21,10 +21,9 @@ After 2 weeks I got what you can find in this repository. I hope you like it and
 it can somehow helpful you in your pursuit for Python experience.
 
 # Project Structure
-
 * src/nl/ekholabs/sample/python
-** hello.py
-*** Contains simple things like: variable assignments; docstrings; printing to the terminal; conditions; etc.
-** format
-*** textFormat.py
-**** Contains a bit more interesting things, like: loops; message formatting; functions; math constants; etc.
+  * hello.py
+    * Contains simple things like: variable assignments; docstrings; printing to the terminal; conditions; etc.
+  * format
+    * textFormat.py
+      * Contains a bit more interesting things, like: loops; message formatting; functions; math constants; etc.
