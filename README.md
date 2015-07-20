@@ -27,3 +27,27 @@ it can somehow helpful you in your pursuit for Python experience.
   * format
     * textFormat.py
       * Contains a bit more interesting things, like: loops; message formatting; functions; math constants; etc.
+  * structure
+    * dictionaries.py
+    * lists.py
+    * listsComprehension.py
+    * tuplesNSets,py
+  * module
+    * fibonacci.py
+    * functions1st.py
+    * functions2nd.py
+    * functions3rd.py
+  * io
+    * fileOperation.py
+  * logging
+    * BaseLogger.py
+  * oop
+    * Coordinates.py
+    * GeocodeService.py
+    * SketcherService.py
+    * SocketClient.py
+    * SocketServerConn.py
+  * exception
+    * GeocodeError.py
+  * test
+    * Some extra code that uses the previous scripts created and introduces new things
